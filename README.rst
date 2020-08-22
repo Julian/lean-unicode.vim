@@ -22,4 +22,4 @@ Regenerating the Translations
 
 Run::
 
-    $ bin/regenerate > Ultisnips/lean.snippets
+    $ bin/regenerate >Ultisnips/lean.snippets
