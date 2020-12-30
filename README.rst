@@ -1,3 +1,9 @@
+**This repository is archived**
+
+Use `the neovim plugin <https://github.com/Julian/lean.nvim>`_ instead,
+which encompasses this functionality.
+
+
 ================
 lean-unicode.vim
 ================
